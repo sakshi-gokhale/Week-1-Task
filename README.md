@@ -1,4 +1,4 @@
-# Exploratory Data Analysis on Titanic Dataset 🚢
+# Exploratory Data Analysis on Titanic Dataset
 
 This repository contains an **Exploratory Data Analysis (EDA)** project performed on the famous **Titanic dataset**.  
 The goal of this project is to analyze passenger data, clean and preprocess it, visualize key relationships, and extract meaningful insights about survival patterns.
